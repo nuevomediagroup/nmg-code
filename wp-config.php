@@ -1,20 +1,17 @@
 <?php
 
-include_once('scalarium.php');
-$scalarium = new Scalarium();
-
 /** Enable W3 Total Cache */
 
-define('WP_CACHE', true); // Added by W3 Total Cache
+// define('WP_CACHE', true);  Added by W3 Total Cache
 
 
 
-define('COOKIE_DOMAIN', 'nuestra.tv'); // Added by W3 Total Cache
+// define('COOKIE_DOMAIN', 'http://localhost'); // Added by W3 Total Cache
 
 
  //Added by WP-Cache Manager
-define('WP_HOME','http://nuestra.tv');
-define('WP_SITEURL','http://nuestra.tv');
+// define('WP_HOME','http://localhost');
+// define('WP_SITEURL','http://localhost');
 /**
 
  * The base configurations of the WordPress.
@@ -44,8 +41,11 @@ define('WP_SITEURL','http://nuestra.tv');
  */
 
 
+include_once('scalarium.php');
+$scalarium = new Scalarium();
 
 // ** MySQL settings - You can get this info from your web host ** //
+
 /** The name of the database for WordPress */
 define('DB_NAME', $scalarium->db->database);
 
@@ -57,14 +57,11 @@ define('DB_PASSWORD', $scalarium->db->password);
 
 /** MySQL hostname */
 define('DB_HOST', $scalarium->db->host);
-/** Database Charset to use in creating database tables. */
 
+/** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8');
 
-
-
 /** The Database Collate type. Don't change this if in doubt. */
-
 define('DB_COLLATE', '');
 
 
