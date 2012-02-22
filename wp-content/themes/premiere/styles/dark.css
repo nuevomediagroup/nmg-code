@@ -1,0 +1,57 @@
+body { background-color: #000; }
+
+a:link, a:visited, #main.video-archive .sorting li a:hover, #main.video-archive .sorting li.active a  { color: #000; }
+
+#main-nav li a  { color: #fff; }
+
+#feat-video .breadcrumbs a  { color: #fff; }
+
+#feat-video .video-excerpt p, #feat-video .meta span.small, #feat-video .meta li  { color: #fff!important; }
+#feat-video .meta li a  { color: #fff!important; }
+#feat-video .meta .post-tags a  { color: #999!important; }
+#feat-video .meta .post-tags a:hover  { color: #fff!important; }
+
+#footer p a  { color: #999; }
+
+/* 6.1 Buttons */
+a.button,
+#commentform #submit,
+.submit {
+	border: 1px solid #000;
+
+	/*Background*/
+	background: #000; /*Fallback*/
+	background: -webkit-gradient(
+					linear,
+					left top,
+					left bottom,
+					color-stop(.2, #333),
+					color-stop(1, #000)
+				);
+	background: -moz-linear-gradient(
+					center top,
+					#333 20%,
+					#000 100%
+				);
+}
+
+a.button:hover,
+a.button.hover,
+a.button.active,
+#commentform #submit:hover,
+.submit:hover {
+	/*Background*/
+	background: #333; /*Fallback*/
+	background: -webkit-gradient(
+					linear,
+					left top,
+					left bottom,
+					color-stop(.2, #000),
+					color-stop(1, #333)
+				);
+	background: -moz-linear-gradient(
+					center top,
+					#000 20%,
+					#333 100%
+				);
+}

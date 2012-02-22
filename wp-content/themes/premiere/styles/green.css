@@ -1,0 +1,58 @@
+body { background-color: #4b8127; }
+
+a:link, a:visited, #main.video-archive .sorting li a:hover, #main.video-archive .sorting li.active a  { color: #4b8127; }
+
+.nav a,
+#footer-widgets .widget h3,
+#footer { color: #8d9785; }
+
+.nav li ul li { background-color: #172010; }
+
+#tabs-home ul.wooTabs li a { color: #0e2200; }
+
+#feat-video .breadcrumbs  { color: #fff; }
+#feat-video .share li a, #feat-video .meta .post-tags a  { background-color: #284d10; }
+#feat-video .share li a:hover, #feat-video .meta .post-tags a:hover  { background-color: #1c3709; }
+
+/* 6.1 Buttons */
+a.button,
+#commentform #submit,
+.submit {
+	border: 1px solid #284d10;
+
+	/*Background*/
+	background: #284d10; /*Fallback*/
+	background: -webkit-gradient(
+					linear,
+					left top,
+					left bottom,
+					color-stop(.2, #4b8127),
+					color-stop(1, #284d10)
+				);
+	background: -moz-linear-gradient(
+					center top,
+					#4b8127 20%,
+					#284d10 100%
+				);
+}
+
+a.button:hover,
+a.button.hover,
+a.button.active,
+#commentform #submit:hover,
+.submit:hover {
+	/*Background*/
+	background: #4b8127; /*Fallback*/
+	background: -webkit-gradient(
+					linear,
+					left top,
+					left bottom,
+					color-stop(.2, #284d10),
+					color-stop(1, #4b8127)
+				);
+	background: -moz-linear-gradient(
+					center top,
+					#284d10 20%,
+					#4b8127 100%
+				);
+}

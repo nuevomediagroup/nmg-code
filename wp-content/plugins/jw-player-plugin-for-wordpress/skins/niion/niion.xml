@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<skin version="1.0" name="niion" author="Yushell Darwich">
+
+	<settings>
+		<setting name="backcolor" value="0xFFFFFF" />
+		<setting name="frontcolor" value="0xFFFFFF" />
+		<setting name="lightcolor" value="0x000000" />
+		<setting name="screencolor" value="0x000000" />
+	</settings>
+
+	<components>
+		<component name="controlbar">
+			<settings>
+				<setting name="margin" value="10" />
+				<setting name="fontsize" value="10" />
+			</settings>
+
+			<elements>
+				<element name="background" src="background.jpg" />
+				<element name="capLeft" src="capLeft.jpg" />
+				<element name="capRight" src="capRight.jpg" />
+				<element name="shade" src="background.jpg" />
+				<element name="divider" src="divider.jpg" />
+								
+				<element name="blankButton" src="blankButton.jpg" />
+				<element name="blankButtonOver" src="blankButton.jpg" />
+				
+				<element name="playButton" src="playButton.jpg" />
+				<element name="playButtonOver" src="playButtonOver.jpg" />
+				
+				<element name="pauseButton" src="pauseButton.jpg" />
+				<element name="pauseButtonOver" src="pauseButtonOver.jpg" />
+				
+				<element name="timeSliderRail" src="timeSliderRail.jpg" />      							
+				<element name="timeSliderBuffer" src="timeSliderBuffer.jpg" />
+				<element name="timeSliderProgress" src="timeSliderProgress.jpg" />
+				<element name="timeSliderThumb" src="timeSliderThumb.jpg" />
+				
+				<element name="fullscreenButton" src="fullscreenButton.jpg" />
+				<element name="fullscreenButtonOver" src="fullscreenButtonOver.jpg" />
+				
+				<element name="normalscreenButton" src="normalscreenButton.jpg" />
+				<element name="normalscreenButtonOver" src="normalscreenButtonOver.jpg" />
+				
+				<element name="muteButton" src="muteButton.jpg" />
+				<element name="muteButtonOver" src="muteButtonOver.jpg" />
+				
+				<element name="unmuteButton" src="unmuteButton.jpg" />
+				<element name="unmuteButtonOver" src="unmuteButtonOver.jpg" />
+				
+				<element name="volumeSliderRail" src="volumeSliderRail.jpg" />
+				<element name="volumeSliderBuffer" src="volumeSliderBuffer.jpg" />
+				<element name="volumeSliderProgress" src="volumeSliderProgress.jpg" />
+			</elements>
+		</component>
+		
+		<component name="display">
+			<elements>
+				<element name="background" src="background.png" />
+				<element name="playIcon" src="playIcon.png" />
+				<element name="muteIcon" src="muteIcon.png" />
+				<element name="errorIcon" src="errorIcon.png" />
+				<element name="bufferIcon" src="bufferIcon.png" />
+			</elements>
+		</component>
+		
+		<component name="dock">
+			<elements>
+				<element name="button" src="button.png" />
+				<element name="buttonOver" src="button.png" />
+			</elements>
+		</component>
+		
+		<component name="playlist">
+			<elements>
+				<element name="item" src="item.png" />
+				<element name="itemOver" src="itemOver.png" />
+				<element name="sliderRail" src="sliderRail.png" />
+				<element name="sliderThumb" src="sliderThumb.png" />
+				<element name="background" src="background.png" />
+			</elements>
+		</component>
+	</components>
+
+</skin>

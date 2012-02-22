@@ -1,0 +1,704 @@
+# Copyright (C) 2010 TYPO3 Importer
+# This file is distributed under the same license as the TYPO3 Importer package.
+msgid ""
+msgstr ""
+"Project-Id-Version: TYPO3 Importer 2.0.2\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/typo3-importer\n"
+"POT-Creation-Date: 2011-12-29 15:26:48+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2010-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: class.options.php:26
+msgid "TYPO3 Access"
+msgstr ""
+
+#: class.options.php:27
+msgid "News Selection"
+msgstr ""
+
+#: class.options.php:28
+msgid "Import Settings"
+msgstr ""
+
+#: class.options.php:29
+msgid "Testing Options"
+msgstr ""
+
+#: class.options.php:30
+msgid "Oops..."
+msgstr ""
+
+#: class.options.php:31
+msgid "Reset/Restore"
+msgstr ""
+
+#: class.options.php:32
+msgid "Not Implemented"
+msgstr ""
+
+#: class.options.php:33
+msgid "About TYPO3 Importer"
+msgstr ""
+
+#: class.options.php:51 class.options.php:111 typo3-importer.php:104
+msgid "TYPO3 Importer Settings"
+msgstr ""
+
+#. #-#-#-#-#  typo3-importer.pot (TYPO3 Importer 2.0.2)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: class.options.php:51 class.options.php:58 typo3-importer.php:99
+#: typo3-importer.php:143
+msgid "TYPO3 Importer"
+msgstr ""
+
+#: class.options.php:73
+msgid "Default Field"
+msgstr ""
+
+#: class.options.php:126
+msgid "Save Changes"
+msgstr ""
+
+#: class.options.php:128
+msgid "begin importing"
+msgstr ""
+
+#: class.options.php:309
+msgid "Website URL"
+msgstr ""
+
+#: class.options.php:310
+msgid "e.g. http://example.com/"
+msgstr ""
+
+#: class.options.php:318
+msgid "Database Host"
+msgstr ""
+
+#: class.options.php:326
+msgid "Database Name"
+msgstr ""
+
+#: class.options.php:334
+msgid "Database Username"
+msgstr ""
+
+#: class.options.php:342
+msgid "Database Password"
+msgstr ""
+
+#: class.options.php:353
+msgid "Default Author"
+msgstr ""
+
+#: class.options.php:354
+msgid "Select incoming news author when none is provided."
+msgstr ""
+
+#: class.options.php:358
+msgid "Current user"
+msgstr ""
+
+#: class.options.php:370
+msgid "Protected Post Password"
+msgstr ""
+
+#: class.options.php:371
+msgid "If set, posts will require this password to be viewed."
+msgstr ""
+
+#: class.options.php:379
+msgid "Override Post Status as...?"
+msgstr ""
+
+#: class.options.php:380
+msgid "Hidden news records will remain as Draft."
+msgstr ""
+
+#: class.options.php:384
+msgid "No Change"
+msgstr ""
+
+#: class.options.php:385
+msgid "Draft"
+msgstr ""
+
+#: class.options.php:386
+msgid "Publish"
+msgstr ""
+
+#: class.options.php:387
+msgid "Pending"
+msgstr ""
+
+#: class.options.php:388
+msgid "Future"
+msgstr ""
+
+#: class.options.php:389
+msgid "Private"
+msgstr ""
+
+#: class.options.php:395
+msgid "Insert More Link?"
+msgstr ""
+
+#: class.options.php:396
+msgid ""
+"Denote where the &lt;--more--&gt; link is be inserted into post content."
+msgstr ""
+
+#: class.options.php:400 class.options.php:429
+msgid "No"
+msgstr ""
+
+#: class.options.php:401 class.options.php:430
+msgid "After 1st paragraph"
+msgstr ""
+
+#: class.options.php:402 class.options.php:431
+msgid "After 2nd paragraph"
+msgstr ""
+
+#: class.options.php:403 class.options.php:432
+msgid "After 3rd paragraph"
+msgstr ""
+
+#: class.options.php:404 class.options.php:433
+msgid "After 4th paragraph"
+msgstr ""
+
+#: class.options.php:405 class.options.php:434
+msgid "After 5th paragraph"
+msgstr ""
+
+#: class.options.php:406 class.options.php:435
+msgid "After 6th paragraph"
+msgstr ""
+
+#: class.options.php:407 class.options.php:436
+msgid "After 7th paragraph"
+msgstr ""
+
+#: class.options.php:408 class.options.php:437
+msgid "After 8th paragraph"
+msgstr ""
+
+#: class.options.php:409 class.options.php:438
+msgid "After 9th paragraph"
+msgstr ""
+
+#: class.options.php:410 class.options.php:439
+msgid "After 10th paragraph"
+msgstr ""
+
+#: class.options.php:416
+msgid "Set Featured Image?"
+msgstr ""
+
+#: class.options.php:417
+msgid "Set first image found in content or related as the Featured Image."
+msgstr ""
+
+#: class.options.php:424
+msgid "Insert Gallery Shortcode?"
+msgstr ""
+
+#: class.options.php:425
+msgid ""
+"Inserts [gallery] into post content if news record has related images. "
+"Follows more link if insert points match."
+msgstr ""
+
+#: class.options.php:440
+msgid "After content"
+msgstr ""
+
+#: class.options.php:445
+msgid "Related Files Header"
+msgstr ""
+
+#: class.options.php:446
+msgid "Related Files"
+msgstr ""
+
+#: class.options.php:453
+msgid "Related Files Header Tag"
+msgstr ""
+
+#: class.options.php:457 class.options.php:487
+msgid "None"
+msgstr ""
+
+#: class.options.php:458 class.options.php:488
+msgid "H1"
+msgstr ""
+
+#: class.options.php:459 class.options.php:489
+msgid "H2"
+msgstr ""
+
+#: class.options.php:460 class.options.php:490
+msgid "H3"
+msgstr ""
+
+#: class.options.php:461 class.options.php:491
+msgid "H4"
+msgstr ""
+
+#: class.options.php:462 class.options.php:492
+msgid "H5"
+msgstr ""
+
+#: class.options.php:463 class.options.php:493
+msgid "H6"
+msgstr ""
+
+#: class.options.php:468
+msgid "Related Files Wrap"
+msgstr ""
+
+#: class.options.php:469
+msgid ""
+"Useful for adding membership oriented shortcodes around premium content. \"|"
+"\" separates before and after content. e.g. [paid]|[/paid]"
+msgstr ""
+
+#: class.options.php:475
+msgid "Related Links Header"
+msgstr ""
+
+#: class.options.php:476
+msgid "Related Links"
+msgstr ""
+
+#: class.options.php:483
+msgid "Related Links Header Tag"
+msgstr ""
+
+#: class.options.php:498
+msgid "Related Links Wrap"
+msgstr ""
+
+#: class.options.php:499
+msgid ""
+"Useful for adding membership oriented shortcodes around premium content. \"|"
+"\" separates before and after content. e.g. [member]|[/member]"
+msgstr ""
+
+#: class.options.php:504
+msgid "Approve Non-spam Comments?"
+msgstr ""
+
+#: class.options.php:505
+msgid "Not fool proof, but beats mass approving comments after import."
+msgstr ""
+
+#: class.options.php:513
+msgid "Don't Import Comments"
+msgstr ""
+
+#: class.options.php:520
+msgid "Don't Import Media"
+msgstr ""
+
+#: class.options.php:521
+msgid ""
+"Skips importing any related images and other media files of news records."
+msgstr ""
+
+#: class.options.php:528
+msgid "Import Limit"
+msgstr ""
+
+#: class.options.php:529
+msgid "Number of news records allowed to import at a time. 0 for all.."
+msgstr ""
+
+#: class.options.php:536
+msgid "Debug Mode"
+msgstr ""
+
+#: class.options.php:537
+msgid ""
+"Bypass Ajax controller to handle news_to_import directly for testing purposes"
+msgstr ""
+
+#: class.options.php:545
+msgid "Convert Imported Posts to Private, NOW!"
+msgstr ""
+
+#: class.options.php:546
+msgid "A quick way to hide imported live posts."
+msgstr ""
+
+#: class.options.php:551
+msgid ""
+"This will remove ALL posts imported with the 't3:tt_news.uid' meta key. "
+"Related post media and comments will also be deleted."
+msgstr ""
+
+#: class.options.php:552
+msgid ""
+"This will remove ALL comments imported with the 't3:tx_comments' "
+"comment_agent key."
+msgstr ""
+
+#: class.options.php:553
+msgid ""
+"This will remove ALL media without a related post. It's possible for non-"
+"imported media to be deleted."
+msgstr ""
+
+#: class.options.php:558
+msgid "Delete..."
+msgstr ""
+
+#: class.options.php:562
+msgid "Prior imports"
+msgstr ""
+
+#: class.options.php:563
+msgid "Imported comments"
+msgstr ""
+
+#: class.options.php:564
+msgid "Unattached media"
+msgstr ""
+
+#: class.options.php:570
+msgid "Reset plugin"
+msgstr ""
+
+#: class.options.php:574
+msgid ""
+"Check this box and click \"Save Changes\" below to reset plugin options to "
+"their defaults."
+msgstr ""
+
+#: class.options.php:580
+msgid "News WHERE Clause"
+msgstr ""
+
+#: class.options.php:581
+msgid ""
+"WHERE clause used to select news records from TYPO3. e.g.: AND tt_news."
+"deleted = 0 AND tt_news.pid > 0"
+msgstr ""
+
+#: class.options.php:588
+msgid "News ORDER Clause"
+msgstr ""
+
+#: class.options.php:589
+msgid ""
+"ORDER clause used to select news records from TYPO3. e.g.: ORDER BY tt_news."
+"uid ASC"
+msgstr ""
+
+#: class.options.php:596
+msgid "News to Import"
+msgstr ""
+
+#: class.options.php:597
+msgid ""
+"A CSV list of news uids to import, like '1,2,3'. Overrides 'News Selection "
+"Criteria'."
+msgstr ""
+
+#: class.options.php:603
+msgid "Skip Importing News"
+msgstr ""
+
+#: class.options.php:604
+msgid "A CSV list of news uids not to import, like '1,2,3'."
+msgstr ""
+
+#: class.options.php:613
+msgid "Make Nice Image Title?"
+msgstr ""
+
+#: class.options.php:614
+msgid "Tries to make a nice title out of filenames if no title exists."
+msgstr ""
+
+#: class.options.php:623
+msgid "Example Text Input"
+msgstr ""
+
+#: class.options.php:624
+msgid "This is a description for the text input."
+msgstr ""
+
+#: class.options.php:631
+msgid "Example Textarea Input"
+msgstr ""
+
+#: class.options.php:632
+msgid "This is a description for the textarea input."
+msgstr ""
+
+#: class.options.php:640
+msgid "Example Checkbox"
+msgstr ""
+
+#: class.options.php:641
+msgid "This is a description for the checkbox."
+msgstr ""
+
+#: class.options.php:655
+msgid "Example Radio"
+msgstr ""
+
+#: class.options.php:656
+msgid "This is a description for the radio buttons."
+msgstr ""
+
+#: class.options.php:668
+msgid "Example Select"
+msgstr ""
+
+#: class.options.php:669
+msgid "This is a description for the drop-down."
+msgstr ""
+
+#: class.options.php:747
+msgid "News to Import is required"
+msgstr ""
+
+#: class.options.php:769
+msgid "Website URL is required"
+msgstr ""
+
+#: class.options.php:782
+msgid "TYPO3 site not found at given Website URL"
+msgstr ""
+
+#: class.options.php:787
+msgid "Database Host is required"
+msgstr ""
+
+#: class.options.php:791
+msgid "Database Name is required"
+msgstr ""
+
+#: class.options.php:795
+msgid "Database Username is required"
+msgstr ""
+
+#: class.options.php:799
+msgid "Database Password is required"
+msgstr ""
+
+#: class.options.php:879
+msgid "Successfully removed %s comments."
+msgstr ""
+
+#: class.options.php:907
+msgid "Successfully updated %s TYPO3 news imports to 'Private'."
+msgstr ""
+
+#: class.options.php:909
+msgid "No TYPO3 news imports found to mark as 'Private'."
+msgstr ""
+
+#: class.options.php:933
+msgid ""
+"Successfully removed %s TYPO3 news and their related media and comments."
+msgstr ""
+
+#: class.options.php:949
+msgid "Successfully removed %s no-post attachments."
+msgstr ""
+
+#: typo3-importer.php:76
+msgid "Settings"
+msgstr ""
+
+#: typo3-importer.php:89
+msgid "Import"
+msgstr ""
+
+#: typo3-importer.php:192
+msgid "All done. No further news or comment records to import."
+msgstr ""
+
+#: typo3-importer.php:262
+msgid "TYPO3 website URL is missing"
+msgstr ""
+
+#: typo3-importer.php:266
+msgid "TYPO3 database host is missing"
+msgstr ""
+
+#: typo3-importer.php:270
+msgid "TYPO3 database name is missing"
+msgstr ""
+
+#: typo3-importer.php:274
+msgid "TYPO3 database username is missing"
+msgstr ""
+
+#: typo3-importer.php:278
+msgid "TYPO3 database password is missing"
+msgstr ""
+
+#: typo3-importer.php:292
+msgid "Errors found, see below"
+msgstr ""
+
+#: typo3-importer.php:299 typo3-importer.php:466
+msgid "Please review your %s before proceeding."
+msgstr ""
+
+#: typo3-importer.php:304
+msgid ""
+"Please be patient while news and comment records are processed. This can "
+"take a while, up to 2 minutes per individual news record to include comments "
+"and related media. Do not navigate away from this page until this script is "
+"done or the import will not be completed. You will be notified via this page "
+"when the import is completed."
+msgstr ""
+
+#: typo3-importer.php:306
+msgid "Estimated time required to import is %1$s minutes."
+msgstr ""
+
+#: typo3-importer.php:310
+msgid "To go back to the previous page, <a href=\"%s\">click here</a>."
+msgstr ""
+
+#: typo3-importer.php:312
+msgid ""
+"All done! %1$s tt_news records were successfully processed in %2$s seconds "
+"and there were %3$s failure(s). To try importing the failed records again, "
+"<a href=\"%4$s\">click here</a>. %5$s"
+msgstr ""
+
+#: typo3-importer.php:314
+msgid ""
+"All done! %1$s tt_news records were successfully processed in %2$s seconds "
+"and there were no failures. %3$s"
+msgstr ""
+
+#: typo3-importer.php:317 typo3-importer.php:472
+msgid "You must enable Javascript in order to proceed!"
+msgstr ""
+
+#: typo3-importer.php:323
+msgid "Abort Importing TYPO3 News and Comments"
+msgstr ""
+
+#: typo3-importer.php:325
+msgid "Debugging Information"
+msgstr ""
+
+#: typo3-importer.php:328
+msgid "Total news records: %s"
+msgstr ""
+
+#: typo3-importer.php:329
+msgid "News Records Imported: %s"
+msgstr ""
+
+#: typo3-importer.php:330
+msgid "Import Failures: %s"
+msgstr ""
+
+#: typo3-importer.php:361
+msgid "Stopping, please wait a moment."
+msgstr ""
+
+#: typo3-importer.php:450
+msgid ""
+"Use this tool to import tt_news and tx_comments records from TYPO3 into "
+"WordPress."
+msgstr ""
+
+#: typo3-importer.php:452
+msgid ""
+"Requires remote web and database access to the source TYPO3 instance. "
+"Images, files and comments related to TYPO3 tt_news entries will be pulled "
+"into WordPress as new posts."
+msgstr ""
+
+#: typo3-importer.php:454
+msgid ""
+"Comments will be automatically tested for spam via Askimet if you have it "
+"configured."
+msgstr ""
+
+#: typo3-importer.php:456
+msgid ""
+"Inline and related images will be added to the Media Library. The first "
+"image found will be set as the Featured Image for the post. Inline images "
+"will have their source URLs updated. Related images will be converted to a "
+"[gallery] and appended or inserted into the post per your settings."
+msgstr ""
+
+#: typo3-importer.php:458
+msgid "Files will be appended to post content as 'Related Files'."
+msgstr ""
+
+#: typo3-importer.php:460
+msgid ""
+"It's possible to change post statuses on import. However, draft posts, will "
+"remain as drafts."
+msgstr ""
+
+#: typo3-importer.php:462
+msgid ""
+"If you import TYPO3 news and they've gone live when you didn't want them to, "
+"visit the Settings screen and look for `Oops`. That's the option to convert "
+"imported posts to `Private` thereby removing them from public view."
+msgstr ""
+
+#: typo3-importer.php:464
+msgid ""
+"Finally, it's possible to delete prior imports and lost comments and "
+"attachments."
+msgstr ""
+
+#: typo3-importer.php:468
+msgid "To begin, click the button below."
+msgstr ""
+
+#: typo3-importer.php:470
+msgid "Import TYPO3 News & Comments"
+msgstr ""
+
+#: typo3-importer.php:494
+msgid "Failed import: %s isn't a TYPO3 news record."
+msgstr ""
+
+#: typo3-importer.php:517
+msgid ""
+"&quot;<a href=\"%1$s\" target=\"_blank\">%2$s</a>&quot; Post ID %3$s was "
+"successfully processed in %4$s seconds."
+msgstr ""
+
+#: typo3-importer.php:1459
+msgid ""
+"&quot;%1$s&quot; Post ID %2$s failed to be processed. The error message was: "
+"%3$s"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/typo3-importer/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Import tt_news and tx_comments from TYPO3 into WordPress."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Michael Cannon"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://typo3vagabond.com/contact-typo3vagabond/"
+msgstr ""

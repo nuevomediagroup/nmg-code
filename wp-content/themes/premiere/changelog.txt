@@ -1,0 +1,79 @@
+*** Premiere Changelog ***
+
+2012.01.02 - version 1.1.8
+ * /includes/theme-functions.php - Make the woo_sort_in_taxonomy() function pluggable.
+
+2011.11.09 - version 1.1.7
+ * includes/theme-functions.php - made woo_image_vimeo pluggable
+
+2011.09.21 - version 1.1.6
+ * taxonomy-woo_video_category.php,
+   /includes/widgets/widget-woo-tabs.php - woo_image_vimeo() requires the post ID to be passed to it.
+ * /includes/theme-functions.php - Additional check for post ID value from global $post object.
+
+2011.09.16 - version 1.1.5
+ * /includes/theme-functions.php - Optimised woo_image_vimeo().
+ * /includes/featured.php - Replaced woo_image() with woo_image_vimeo() to add support for video thumbnails to the featured slider.
+ * index.php - Pass ID value through to woo_image_vimeo().
+
+2011.09.14 - version 1.1.4
+ * /includes/theme-functions.php - Adjusted woo_image_vimeo() to make sure the Vimeo image thumbnail isn't overshadowed by the post thumbnail unless one exists.
+
+2011.09.01 - version 1.1.3
+ * /includes/theme-actions.php - Added slidesLoaded parameter to SlidesJS call, making sure that the slider autoHeight is set to the height of the first slide on load. Set preload parameter to true.
+ * /images/loading.gif - Loading graphic, used with SlidesJS.
+
+2011.08.31 - version 1.1.2
+ * css/clean.css - Changed background to background-color to allow a background image.
+
+2011.08.18 - version 1.1.1
+ * includes/theme-functions.php - use post thumbnail (if set) instead of vimeo video.
+
+2011.08.05 - version 1.1
+ * includes/theme-options.php, 
+   includes/theme-actions.php - updated slider speed options
+
+2011.07.23 - version 1.0.11
+ * index.php, 
+   taxonomy-woo_video_category.php, 
+   /includes/theme-functions.php - Force video thumbnails to use thumbnail dimensions from theme options.
+
+2011.06.21 - version 1.0.10
+ * /includes/theme-functions.php - Adjusted woo_image_vimeo() to fix "has image" check conflict when used in the "related videos" section.
+
+2011.06.20 - version 1.0.9
+ * index.php - Code standards clean-up.
+ * /includes/theme-functions.php - Adjusted woo_image_vimeo() to display woo_image() if using a Vimeo video and a woo_image is present.
+
+2011.05.09 - version 1.0.8
+ * search.php, archive.php - Display video categories for video posts instead of post "category" taxonomy.
+
+2011.05.04 - version 1.0.7
+ * includes/widgets/widget-woo-tabs.php - changed so thumbs would display video thumbs.
+
+2011.04.30 - version 1.0.6
+ * template-timeline.php - Added "woo_video" post type to the post types displayed in the timeline.
+ * comments.php - Optimised comments file and removed duplication comment_ID hidden field.
+ * single-woo_video.php - Make sure the correct post is used to display comments and data after the "related videos" section is done.
+
+2011.04.23 - version 1.0.5 
+ * includes/featured.php - fix slider to show when only one post
+ * style.css - commented out .slides_container:first-child .slide in section 2.4
+
+2011.04.20 - version 1.0.4
+ * /includes/theme-functions.php - Added video posts to author archive screens, in addition to blog posts.
+
+2011.04.18 - version 1.0.3
+ * /includes/theme-functions.php - Added video permalink to "Share via E-mail" message text.
+
+2011.04.05 - version 1.0.2
+ * style.css - Fixed slider transparency bug for IE.
+ * images/bg-ie-transparency.png - Added image for transparency in IE
+
+2011.04.01 - version 1.0.1
+ * /includes/custom-post-types/cpt_woo_video.class.php - Removed sprintf() function call from admin update messages.
+ taxonomy-woo_video_category.php - Adjusted archive heading text for retranslation.
+ * /lang/en_GB.po - Rescanned language file.
+
+2011.03.29 - version 1.0
+ * First release!

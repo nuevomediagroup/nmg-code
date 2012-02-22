@@ -1,0 +1,11 @@
+body { background-color: #274781; }
+
+a:link, a:visited  { color: #00adb3; }
+
+.nav a,
+#footer-widgets .widget h3,
+#footer { color: #858d97; }
+
+.nav li ul li { background-color: #101820; }
+
+#tabs-home ul.wooTabs li a { color: #001122; }

@@ -1,0 +1,170 @@
+<!-- :mode=xml: -->
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
+
+	<channel>
+		<title>Nuestra.TV RSS playlist</title>
+		<link>http://nuestra.tv </link>
+		<item>
+			<title>New face of La Paz's suspected links to drugs money</title>
+			<link>http://nuestra.tv </link>
+			<description>Construction in Bolivia has boomed at record rates in the past two years, particularly in the administrative capital of La Paz. Packed tightly between the Cordillera and Andes mountains, the city has reached the point where it can only expand in an upwards direction. But many are asking what's fueling this rapid transformation -- and whether drugs money could be behind the new face of La Paz.<p class="generated">Duration: 02:09</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV383209_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV383209_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+		<item>
+			<title>Jazz musician plays on despite handicap</title>
+			<link>http://nuestra.tv </link>
+			<description>Everyone in John Britton's family plays music, and the fact that he was born with fingers half the normal size, was no excuse not to take part. Now their family jazz tradition takes to the stage, to the delight of fans. An AFPTV profile.Duration:01:59</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384464_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384464_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+		
+				<item>
+			<title>Entrepreneurs help lost Liberian generation work</title>
+			<link>http://nuestra.tv </link>
+			<description>Liberia's civil war left almost an entire generation without educational qualifications but that hasn't stopped young people in the capital Monrovia from turning their hand to creative money-earning solutions. From IT services to the explosive growth of motorbike taxis -- Liberians are getting back to work. Duration: 02:23</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV379660_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV379660_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+		<item>
+			<title>Veterans land green jobs</title>
+			<link>http://nuestra.tv </link>
+			<description>With US troop drawdowns taking place in Iraq and Afghanistan, many parts of the United States are struggling to absorb the influx of soldiers coming home to a weak economy and high unemployment. One program is placing out-of-work veterans into environmentally sustainable jobs, using the skills they learned in active service to green the construction industry. Duration:&#160;01:57.</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV379812_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV379812_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>	
+				<item>
+			<title>Spain Christmas lottery fares well in lean times</title>
+			<link>http://nuestra.tv </link>
+			<description>In the midst of an economic crisis, the Spanish are turning to a trusted Christmas tradition in the hope of getting through their financial woes: the lottery. Duration: 01:41</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV382782_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV382782_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+		<item>
+			<title>Tourism threatens tiny Philippine primate</title>
+			<link>http://nuestra.tv </link>
+			<description>The Philippine tarsier, with its rat-like tail, bat-like ears, and giant eyeballs, is one of the smallest primates in the world. Its strange appearance is obvious but tourists who flock to see them in their natural habitat may not realise their very presence is putting the animal at risk. Duration: 2:08.</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV383973_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV383973_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+		<item>
+			<title>Rio's residents go green with new orange bikes</title>
+			<link>http://nuestra.tv </link>
+			<description>Rio de Janerio is determined to become greener and easier to navigate in the run up to the 2014 football World Cup and 2016 Olympic Games -- both being hosted by the city. A new rent-a-bike system, inspired by a similar project in France, has recently been rolled out across the Brazilian tourist destination, to help cut pollution and encourage visitors and residents to get exercising.<p class="generated">Duration: 02:11</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384611_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384611_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+				
+				<item>
+			<title>I. Coast votes again with wounds still raw</title>
+			<link>http://nuestra.tv </link>
+			<description>Ivory Coast elects its parliament Sunday only a year after the poll that brought the country back to the brink of war and landed former strongman Laurent Gbagbo in the dock for crimes against humanity. Duration: 01: 24</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384226_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384226_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+		<item>
+			<title>Gambia's president speaks out against press freedom</title>
+			<link>http://nuestra.tv </link>
+			<description>Gambia's newly elected President Yayha Jammeh has used his victory to threaten journalists, saying he will not allow one percent of the population to destroy the country. Duration: 02:23</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384240_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384240_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+		<item>
+			<title>US pullout leaves an Iraq in flux</title>
+			<link>http://nuestra.tv </link>
+			<description>The withdrawal of US troops from Iraq more than eight years after the invasion leaves a country grappling with political deadlock and vulnerable to regional interference and a domestic insurgency.&#160;Duration: 02:13.<br/></description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384578_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384578_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+				<item>
+			<title>Disease strikes Argentina's indigenous communities</title>
+			<link>http://nuestra.tv </link>
+			<description>Chagas disease kills an estimated 10,000 people each year. The illness, spread by insects, was once entirely confined to Latin America but has now also reached parts of north America and Europe. According to the World Health Organisation some 10 million people are currently infected worldwide -- most live in poor, rural areas. In Argentina alone, some three million people are thought to be suffering from the disease, many in the country&#8217;s indigenous communities. Duration: 02:00</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV381801_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV381801_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+		<item>
+			<title>Do-gooder diners flock to 'Robin Hood' eatery</title>
+			<link>http://nuestra.tv </link>
+			<description>Business is booming in Montreal's Robin Hood restaurant. Mostly staffed by volunteers, the non-profit stays true to its name by donating its earnings to local charities.Duration:01:59</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384459_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV384459_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+				
+				
+				<item>
+			<title>African software helps map unrest in Liberia</title>
+			<link>http://nuestra.tv </link>
+			<description>Although many people in sub-Saharan Africa have no access to the internet, online technologies are playing a role in the continent's affairs. A team of IT experts in Liberia are using Ushahidi, an open-source software programme developed by a group of Kenyans, to track unrest in the West African country.Duration:02:22</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/MMV382905_TEN.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/MMV382905_TEN.1280x720.mp4" type="video/x-mp4" />
+		</item>
+	
+			<item>
+			<title>From bust to boom, Argentina's 10 year rise</title>
+			<link>http://nuestra.tv </link>
+			<description>Ten years have gone by since Argentina's economic crisis, forcing Argentinians to take charge of their own financial fate. Today, things are looking up -- a growth rate of eight percent since 2003, unemployment down to seven percent and a building boom -- but there's still concern for the future.</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/argentinaboom.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/argentinaboom.mp4" type="video/x-mp4" />
+		</item>					
+<item>
+			<title>Telenovelas feed US appetite for steamy TV</title>
+			<link>http://nuestra.tv </link>
+			<description>Spanish language soap operas -- telenovelas -- are already huge popular hits in Latin America. Now with Hispanics making up 16 percent of the US population, producers are looking to steam up screens a little further north.</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/telenovelas.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/telenovelas.mp4" type="video/x-mp4" />
+		</item>	
+		
+		<item>
+			<title>Immigration reform a 'moral imperative': Obama</title>
+			<link>http://nuestra.tv </link>
+			<description>A day after renewing his support for immigration reform in a major speech, US President Barack Obama joined Latino leaders Thursday at a National Hispanic Prayer Breakfast in Washington. Obama has proposed to lay out a path to citizenship for the some 11 million undocumented foreigners living in the United States -- a move strongly supported by Latino voters but fiercely opposed by most Republicans.</description>
+			<media:credit role="author">AFPTV</media:credit>
+			<media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/obamamigra.jpg"/>
+			<media:content url="http://d231bp3cl59kev.cloudfront.net/clips/obamamigra.mp4" type="video/x-mp4" />
+		</item>				
+		<item>
+			<title>Angels risk their lives for Juarez</title>
+			<link>http://nuestra.tv </link>
+			<description>Angels are appearing on street corners and at crime scenes in Ciudad Juarez, Mexico’s most violent city and the epicenter of the country’s drug-related violence. Not just for Christmas, the angels are youngsters dressing up to send their message that only God can save Juarez now.</description>
+			<media:credit role="author">AFPTV</media:credit><media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/juarez.jpg"/>
+			<media:content 
+				url="http://d231bp3cl59kev.cloudfront.net/clips/juarez_low.mp4" type="video/x-mp4" />
+		</item>					
+	<item>
+			<title>Indigenous Brazilians say Stop!</title>
+			<link>http://nuestra.tv </link>
+			<description>With the 2014 football World Cup and 2016 Olympic Games, Brazil is regenerating whole areas at a frenetic pace. But in the Maracana district of the city, indigenous Indians are trying to prevent the transformation of the derelict Indian Museum located close to one of the stadiums, into a shopping centre.</description>
+			<media:credit role="author">AFPTV</media:credit><media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/brasil_maracana.jpg"/>
+			<media:content 
+				url="http://d231bp3cl59kev.cloudfront.net/clips/Brazils+native+cultures+threatened+by+World+Cup+preparations.mp4" type="video/x-mp4" />
+		</item>
+	
+		<item>
+			<title>Colombian Balloon Solar Festival</title>
+			<link>http://nuestra.tv </link>
+			<description>Solar balloons fill the sky over Medellin in Colombia for the 11th International Solar Balloon Festival. The balloons are made of plastic and tape and heated by the sun which expands and makes the balloon lighter so it can rise.</description>
+			<media:credit role="author">AFPTV</media:credit><media:thumbnail url="http://d231bp3cl59kev.cloudfront.net/clips/colombian_balloons.jpg"/>
+			<media:content 
+				url="http://d231bp3cl59kev.cloudfront.net/clips/colombian_balloons.mp4" type="video/x-mp4" />
+		</item>
+	
+	
+	</channel>
+	
+</rss>

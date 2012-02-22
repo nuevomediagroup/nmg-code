@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<config>
+<adaptvjw5.key type='Additional'>integration_test</adaptvjw5.key>
+<adaptvjw5.zid type='Additional'>flash_ads</adaptvjw5.zid>
+<icons>true</icons>
+<playlist.position>none</playlist.position>
+<playlistsize>180</playlistsize>
+<repeat>none</repeat>
+<shuffle>false</shuffle>
+<bufferlength>1</bufferlength>
+<smoothing>true</smoothing>
+<stretching>uniform</stretching>
+<wmode>opaque</wmode>
+<mute>false</mute>
+<volume>90</volume>
+<controlbar>over</controlbar>
+<dock>true</dock>
+<autostart>true</autostart>
+<height>380</height>
+<width>600</width>
+<plugins>http://video.nuestra.tv/mk/adaptvjw5.swf</plugins>
+</config>

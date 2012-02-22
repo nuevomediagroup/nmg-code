@@ -1,0 +1,67 @@
+body { background-color: #e95200; background-image: url(orange/bg.png); }
+
+a:link, a:visited, #main.video-archive .sorting li a:hover, #main.video-archive .sorting li.active a  { color: #e95200; }
+
+#navigation  { background-image: url(orange/bg-nav.png); }
+
+#tagline { color: #fff!important; }
+#main-nav li a  { color: #fff; }
+
+#footer-widgets .widget h3,
+#footer { color: #fff; }
+
+#tabs-home ul.wooTabs li  { background-image: url(orange/li-tabs.png); }
+
+.nav li ul li { background-color: #201610; }
+
+#tabs-home ul.wooTabs li a { color: #220b00; }
+
+#feat-video .breadcrumbs  { color: #fff; }
+#feat-video .video-excerpt p, #feat-video .meta span.small, #feat-video .meta li  { color: #fff!important; }
+#feat-video .meta li a  { color: #fff!important; }
+#feat-video .share li a, #feat-video .share li.first a  { border-color: #662400; }
+#feat-video .share li a, #feat-video .meta .post-tags a  { background-color: #be4503; }
+#feat-video .share li a:hover, #feat-video .meta .post-tags a:hover  { background-color: #9f3901; }
+
+/* 6.1 Buttons */
+a.button,
+#commentform #submit,
+.submit {
+	border: 1px solid #be4503;
+
+	/*Background*/
+	background: #e95200; /*Fallback*/
+	background: -webkit-gradient(
+					linear,
+					left top,
+					left bottom,
+					color-stop(.2, #e95200),
+					color-stop(1, #be4503)
+				);
+	background: -moz-linear-gradient(
+					center top,
+					#e95200 20%,
+					#be4503 100%
+				);
+}
+
+a.button:hover,
+a.button.hover,
+a.button.active,
+#commentform #submit:hover,
+.submit:hover {
+	/*Background*/
+	background: #be4503; /*Fallback*/
+	background: -webkit-gradient(
+					linear,
+					left top,
+					left bottom,
+					color-stop(.2, #be4503),
+					color-stop(1, #e95200)
+				);
+	background: -moz-linear-gradient(
+					center top,
+					#be4503 20%,
+					#e95200 100%
+				);
+}
