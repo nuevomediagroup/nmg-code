@@ -2,16 +2,16 @@
 
 /** Enable W3 Total Cache */
 
-define('WP_CACHE', true);  //Added by W3 Total Cache
+// define('WP_CACHE', true);  //Added by W3 Total Cache
 
 
 
-define('COOKIE_DOMAIN', 'http://dev.nuestra.tv'); // Added by W3 Total Cache
+// define('COOKIE_DOMAIN', 'http://dev.nuestra.tv'); // Added by W3 Total Cache
 
 
  //Added by WP-Cache Manager
-define('WP_HOME','http://dev.nuestra.tv');
-define('WP_SITEURL','http://dev.nuestra.tv');
+// define('WP_HOME','http://dev.nuestra.tv');
+// define('WP_SITEURL','http://dev.nuestra.tv');
 /**
 
  * The base configurations of the WordPress.
